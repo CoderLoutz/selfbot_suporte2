@@ -9,4 +9,12 @@ Hake (hake Ɓ✝ʅ#0010)
 
 <h3>Hake:</h3>
 
-<li>teste</li>
+<li>Coder Geral</li>
+<li>Designer Gráfico</li>
+<li>WebScripter</li>
+
+<h3>Amon:</h3>
+
+<li>Cracker</li>
+<li>Designer Gráfico</li>
+<li>Coder Geral</li>
