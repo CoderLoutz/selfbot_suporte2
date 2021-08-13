@@ -2,7 +2,7 @@
 
 ## Quem são:
 
-Amon (Amon#0009)
+Amon (Amon#0009) <br>
 Hake (hake Ɓ✝ʅ#0010)
 
 ## Em que áreas trabalham e em quem linguagens programam:
