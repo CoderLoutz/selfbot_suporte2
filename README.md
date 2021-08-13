@@ -7,6 +7,6 @@ Hake (hake Ɓ✝ʅ#0010)
 
 ## Em que áreas trabalham e em quem linguagens programam:
 
-Hake:
+<h3>Hake:</h3>
 
 <li>teste</li>
